@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moayed Abou Naaj  
 
-💻 Full Stack Developer | 🖥️ IT Supporter  
+💻 Full Stack Developer | 🖥️ IT Administrator 
 
 ---
 
